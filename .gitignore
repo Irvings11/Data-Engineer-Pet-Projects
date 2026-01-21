@@ -1,0 +1,28 @@
+# env
+.env
+.venv
+
+# system
+.DS_Store
+
+# python
+__pycache__/
+*.pyc
+
+# airflow/astro
+airflow_settings.yaml
+airflow-webserver.pid
+webserver_config.py
+airflow.cfg
+airflow.db
+
+# dbt
+target/
+dbt_packages/
+logs/
+package-lock.yml
+
+# astro
+node_modules/
+dbt-dag/dbt-dag/node_modules/
+
