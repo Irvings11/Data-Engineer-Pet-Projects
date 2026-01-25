@@ -1,0 +1,1 @@
+# This is Repository for my Data-Engineering Pet Projects, here I'm working with a bunch of Databases, ETL/ELT pipelines, PostgreSQL, Clickhouse, Apache Airflow and more. Feel free to look and find something new!
